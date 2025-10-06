@@ -1,0 +1,8 @@
+﻿.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+.vscode/
+*.log
+node_modules/
+.DS_Store
