@@ -45,9 +45,9 @@ data:
     </head>
     <body>
         <div class="container">
-            <h1>🎉 Welcome Amal Zayn! 🎉</h1>
+            <h1>Welcome Jeena</h1>
             <p>Your Multi-Cloud Kubernetes Application is Running Successfully!</p>
-            <div class="emoji"> ☁️ 🌟</div>
+            
             <p><strong>Deployed with Jenkins • Terraform • Kubernetes</strong></p>
             <p>Powered by Professional DevOps Pipeline</p>
         </div>
